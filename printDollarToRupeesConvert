@@ -1,0 +1,4 @@
+dollars= float(input(" Enter dollars "))
+#rupees = dollars*83.55
+#print("Indian rupees",rupees)
+print("Indian rupees",dollars*83.55)
