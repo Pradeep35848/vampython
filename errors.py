@@ -35,7 +35,7 @@ email = "p@gmail.com"
 # total = amount + email
 try:
     total = amount + email
-except TypeError:
+except TypeError:   
     print("this error is data type error")
 
 
